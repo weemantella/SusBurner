@@ -9,7 +9,8 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 - 80% scaled Stealthburner that fit's the tiny Vorons like the V0 (more information below)
 - 4020 for Part-cooling (like from the Afterburner) and 3007 for Hotend-cooling
 - CW2 extruder with adapted internals to fir the small formfactor
-- Full size nozzle LEDs - same as for his big brother (Logo LED is on the TO-Do)
+- Full size nozzle LEDs - same as for his big brother
+- Full size logo LED
 - Filament cutter based on standard FilamATrix/Filametrix cutters
 - Pre-extruder sensor
 
