@@ -13,6 +13,8 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 - Filament cutter based on standard FilamATrix/Filametrix cutters
 - Pre-extruder sensor
 
+![image](https://github.com/user-attachments/assets/2f66cbe5-93b1-4955-be33-997f99398ff7)
+
 ### Acknowledgements
 
 - Voron Design team for the [StealthBurner](https://github.com/VoronDesign/Voron-Stealthburner)
