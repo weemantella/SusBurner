@@ -1,2 +1,2 @@
 # SusBurner
-StealthBurner for Ants misxed with Filamtrix, brings you SusBurner a PFA toolhead.
+StealthBurner for Ants mixed with Filamtrix, brings you SusBurner a PFA toolhead.
