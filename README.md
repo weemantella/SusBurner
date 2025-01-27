@@ -22,6 +22,7 @@ This is very much a work in progress toolhead. Don't complain when thing inevita
 - Rapido
 - Rapido UHF
 - Dragon UHF
+- Voron Revo
 
 ### Acknowledgements
 
